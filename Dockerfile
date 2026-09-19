@@ -1,4 +1,4 @@
-FROM nginix
+FROM nginx
 EXPOSE 80
 MAINTAINER dileep
 LABEL this is movie tickets automation
